@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+input{
+    text-align: center;
+}
+p, #str{
+    color:#000000;
+    width: 450px;
+    height: 40px;
+    font-size: 15px;
+    text-align: left;
+    margin-left:auto;
+    margin-right:auto;
+
+
+}
+#output{
+    width:450px;
+    height: 30px;
+    font-size: 20px;
+    background-color: #fff;
+    color:#000000;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+#btn{
+    height: 50px;
+    width: 450px;
+    color: #000000;
+    background-color: bisque;
+    text-align: center;
+}
